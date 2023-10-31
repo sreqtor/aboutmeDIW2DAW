@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 User-agent: GPTBot 
 Disallow: / 
-Sitemap: linkDeLaWebSubidaEnElEjercicio4/sitemap.xml
+Sitemap: https://sreqtor.github.io/sitemap.xml
